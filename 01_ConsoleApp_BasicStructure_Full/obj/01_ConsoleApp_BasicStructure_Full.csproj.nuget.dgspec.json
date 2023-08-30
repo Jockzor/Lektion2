@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nackademin\\Övningar\\Lektion-2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj": {}
+    "C:\\Nackademin\\Lektion2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj": {}
   },
   "projects": {
-    "C:\\Nackademin\\Övningar\\Lektion-2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj": {
+    "C:\\Nackademin\\Lektion2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nackademin\\Övningar\\Lektion-2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj",
+        "projectUniqueName": "C:\\Nackademin\\Lektion2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj",
         "projectName": "01_ConsoleApp_BasicStructure_Full",
-        "projectPath": "C:\\Nackademin\\Övningar\\Lektion-2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj",
+        "projectPath": "C:\\Nackademin\\Lektion2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj",
         "packagesPath": "C:\\Users\\jolle\\.nuget\\packages\\",
-        "outputPath": "C:\\Nackademin\\Övningar\\Lektion-2\\01_ConsoleApp_BasicStructure_Full\\obj\\",
+        "outputPath": "C:\\Nackademin\\Lektion2\\01_ConsoleApp_BasicStructure_Full\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\jolle\\AppData\\Roaming\\NuGet\\NuGet.Config",
