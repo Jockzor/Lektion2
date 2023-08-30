@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oxOd1ELHJNNpBjmw3dKSdZbh2suplHEh1GsqTht4CvNcY9V6VHphWRWwfqjbOWT+Vo/2JOLNbcrn3jZv3ewjqw==",
+  "dgSpecHash": "cKSi1KMRkTYBGLJc0+N8lx29r05/E7ag/hrwCMAdSkGk/dR6mwz+fjfdJ23HKUCvNN8QHji7Mmq8gP88qysjew==",
   "success": true,
-  "projectFilePath": "C:\\Nackademin\\Övningar\\Lektion-2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj",
+  "projectFilePath": "C:\\Nackademin\\Lektion2\\01_ConsoleApp_BasicStructure_Full\\01_ConsoleApp_BasicStructure_Full.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
